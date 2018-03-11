@@ -1,0 +1,21 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "homePageRedirect.html"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "https://identitysafe.norton.com/*", "http://identitysafe.norton.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Safely search the web from your home page on Chrome, with Norton. Stay away from phishing and other risky sites.",
+   "icons": {
+      "128": "images/128_Norton_Ext_Icon.png",
+      "48": "images/48_Norton_Ext_Icon.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg+F9amqwhy8ns4ROW/NLbPt5VErNaOQ7/POlOAtIb2uG7YEbLEjFfgKkx4Zg2Vyb2H+IiYWYspHVFvpZKdc1u+a9wq8shCI7iJ5px/a+PnzOeYr58BBtwtCVrGmZExyNjtbAxPZPCMsxAoBtVpWz6ZdTvoYiabUkNH4l+rI91PqN3Y07gV6RFiq9zeFfPdukjSL8gCKcbWsdtAsb2f5cChMGxInPW4vwJ7O7ipSVZWgfUJOk3CPvdSpIDxrnb87ZpQIJGBooUzzcJ5ohshO7ZdOYp0vogTLDjjgUmDcZ+pNR1MEPBAzvrODX4a6J5ygVG892X/HSnA/yYqtVggNA6QIDAQAB",
+   "manifest_version": 2,
+   "name": "Norton Home Page for Chrome",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.5"
+}

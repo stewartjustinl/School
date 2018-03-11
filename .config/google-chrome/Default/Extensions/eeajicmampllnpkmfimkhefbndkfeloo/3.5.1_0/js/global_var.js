@@ -1,0 +1,1 @@
+var website="http://www.softarea.in",donation_url="http://donationsforsoftarea.blogspot.in/2013/03/facebook-group-invite-all.html",extension_name="Facebook Group Invite All",manifest=chrome.runtime.getManifest(),fb_regex=/\.facebook\.com/ig,limit=500;

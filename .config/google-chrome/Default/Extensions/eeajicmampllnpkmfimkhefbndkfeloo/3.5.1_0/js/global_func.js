@@ -1,0 +1,1 @@
+var installed=function(b,c){var a=/(..)(:..)/.exec(new Date);new Notification((a[1]%12||12)+a[2]+" "+(12>a[1]?"AM":"PM"),{icon:"/images/icon64.png",body:b});window.open(c)};

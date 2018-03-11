@@ -1,0 +1,29 @@
+2018/03/09-03:48:15.811 1561 Reusing MANIFEST /home/justin/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2018/03/09-03:48:15.811 1561 Recovering log #488
+2018/03/09-03:48:15.812 1561 Reusing old log /home/justin/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000488.log 
+2018/03/09-11:49:15.791 2077 Level-0 table #492: started
+2018/03/09-11:49:15.835 2077 Level-0 table #492: 3197897 bytes OK
+2018/03/09-11:49:15.839 2077 Delete type=0 #488
+2018/03/09-11:49:23.048 2077 Level-0 table #494: started
+2018/03/09-11:49:23.091 2077 Level-0 table #494: 3197685 bytes OK
+2018/03/09-11:49:23.094 2077 Delete type=0 #491
+2018/03/09-11:49:23.095 2077 Compacting 4@0 + 2@1 files
+2018/03/09-11:49:23.166 2077 Generated table #495@0: 1 keys, 3196580 bytes
+2018/03/09-11:49:23.170 2077 Generated table #496@0: 5 keys, 1291 bytes
+2018/03/09-11:49:23.170 2077 Compacted 4@0 + 2@1 files => 3197871 bytes
+2018/03/09-11:49:23.173 2077 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/03/09-11:49:23.173 2077 Delete type=2 #487
+2018/03/09-11:49:23.174 2077 Delete type=2 #484
+2018/03/09-11:49:23.174 2077 Delete type=2 #489
+2018/03/09-11:49:23.174 2077 Delete type=2 #485
+2018/03/09-11:49:23.174 2077 Delete type=2 #492
+2018/03/09-11:49:23.174 2077 Delete type=2 #494
+2018/03/09-11:49:23.875 2077 Level-0 table #498: started
+2018/03/09-11:49:23.915 2077 Level-0 table #498: 3206302 bytes OK
+2018/03/09-11:49:23.919 2077 Delete type=0 #493
+2018/03/09-11:49:29.069 2077 Level-0 table #500: started
+2018/03/09-11:49:29.123 2077 Level-0 table #500: 3206302 bytes OK
+2018/03/09-11:49:29.127 2077 Delete type=0 #497
+2018/03/11-14:32:54.784 2077 Level-0 table #502: started
+2018/03/11-14:32:54.824 2077 Level-0 table #502: 3207023 bytes OK
+2018/03/11-14:32:54.828 2077 Delete type=0 #499

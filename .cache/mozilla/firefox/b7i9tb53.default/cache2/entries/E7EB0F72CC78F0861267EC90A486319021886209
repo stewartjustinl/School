@@ -1,0 +1,244 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML lang="en">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<LINK REL="stylesheet" HREF="/css/duckhunt_new.css" TYPE="text/css">
+<LINK REL="stylesheet" HREF="/css/web_defaultprint.css" TYPE="text/css" media="print">
+<link rel="stylesheet" type="text/css" href="/css/styles-minimal.css">
+<title>UO Class Schedule</title>
+<meta http-equiv="Content-Script-Type" name="Default_Script_Language" content="text/javascript">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+<!-- Hide JavaScript from older browsers 
+window.onunload = function() {submitcount=0;}
+var submitcount=0;
+function checkSubmit() {
+if (submitcount == 0)
+   {
+   submitcount++;
+   return true;
+   }
+else
+   {
+alert("Your changes have already been submitted.");
+   return false;
+   }
+}
+//  End script hiding -->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+<!-- Hide JavaScript from older browsers 
+//  Function to open a window
+function windowOpen(window_url) {
+   helpWin = window.open(window_url,'','toolbar=yes,status=no,scrollbars=yes,menubar=yes,resizable=yes,directories=no,location=no ');
+   if (document.images) { 
+       if (helpWin) helpWin.focus()
+   }
+}
+//  End script hiding -->
+</SCRIPT>
+</head>
+<body>
+<div class="uoheader"><div class="uoheader__container"><div class="uoheader__logo-container"><a rel="home" href="http://www.uoregon.edu"><img width="200" height="43" alt="University of Oregon" title="University of Oregon" src="/css/uo-logo@2x.png"></a></div></div></div>
+<!-- Standard Simple Style Site Header --><div class="site-header"><h1 class="site-header__site-name">Class Schedule </h1></div>
+<div class="headerwrapperdiv">
+<div class="pageheaderdiv1">
+<a href="#main_content" onMouseover="window.status='Go to Main Content'; return true" onMouseout="window.status=''; return true" OnFocus="window.status='Go to Main Content'; return true" onBlur="window.status=''; return true" class="skiplinks">Go to Main Content</a>
+</DIV>
+<table  CLASS="plaintable" SUMMARY="This table displays Menu Items and Banner Search textbox."
+         WIDTH="100%">
+<tr>
+<TD CLASS="pldefault">
+<div class="headerlinksdiv2">
+&nbsp;
+</div>
+</TD>
+<TD CLASS="pldefault"><p class="rightaligntext">
+<SPAN class="pageheaderlinks">
+<a href="/wtlhelp/twbhhelp.htm" accesskey="H" onClick="popup = window.open('/wtlhelp/twbhhelp.htm', 'PopupPage','height=500,width=450,scrollbars=yes,resizable=yes'); return false" target="_blank" onMouseOver="window.status='';  return true" onMouseOut="window.status=''; return true"onFocus="window.status='';  return true" onBlur="window.status=''; return true"  class="submenulinktext2">HELP</a>
+|
+<a href="twbkwbis.P_Logout" accesskey="3" class="submenulinktext2">EXIT</a>
+</span>
+</TD>
+</tr>
+</table>
+</DIV>
+<div class="pagetitlediv">
+<table  CLASS="plaintable" SUMMARY="This table displays title and static header displays."
+   WIDTH="100%">
+<tr>
+<TD CLASS="pldefault">
+<h2>Â </h2>
+</TD>
+<TD CLASS="pldefault">
+&nbsp;
+</TD>
+<TD CLASS="pldefault"><p class="rightaligntext">
+<div class="staticheaders">
+</div>
+</TD>
+</tr>
+<tr>
+<TD class="bg3" width="100%" colSpan=3><img src="/wtlgifs/web_transparent.gif" alt="Transparent Image" TITLE="Transparent Image"  NAME="web_transparent" HSPACE=0 VSPACE=0 BORDER=0 HEIGHT=3 WIDTH=10  /></TD>
+</tr>
+</table>
+<a name="main_content"></a>
+</DIV>
+<div class="pagebodydiv">
+<!--  ** END OF twbkwbis.P_OpenDoc **  -->
+<table  CLASS="plaintable"  width="700" >
+<tr>
+<TD  width="700" CLASS="pldefault">
+<div class="infotextdiv"><table  CLASS="infotexttable" SUMMARY="This layout table contains information that may be helpful in understanding the content and functionality of this page.  It could be a brief set of instructions, a description of error messages, or other special information."><tr><td CLASS="indefault"><SPAN class="infotext"> <b><font size=4>Welcome to the University of Oregon Class Schedule.  <br></b><font size=4>To get started, click on a term below.</b>
+<br>
+
+<p><B><font size = 3><font color = red>The Registrar's Office has moved to Oregon Hall 463.</font size></font color></b>  
+
+<p>
+<!--<p><font size = 4><font color = red> <b>To graduate in four years, most undergraduates take 16 credits per term.</font size></font color></b>-->
+
+<p><B><font size = 3><font color = blue>Click <A HREF="javascript:void(window.open('https://findanadvisor.uoregon.edu/'))"> here</A> to find an advisor on campus.<p></B></font size></font color>
+
+<p><B><font size = 3><font color = green><A HREF="javascript:void(window.open('http://languages.uoregon.edu'))" >Explore Languages offered at the UO</A><br>
+<A HREF="javascript:void(window.open('http://geo.uoregon.edu'))" >Explore Study Abroad Opportunities offered at the UO</A>
+</font sized = 3></font color = green>
+
+ <!--<p><font size=3><b>Summer Term 2017</font size></B>
+<font size = 2.5>-->
+
+
+</B></font color>
+<p><font size=3><b>Winter Term 2018</font size></B>
+<font size = 2.5>
+<li>Click <A HREF="javascript:void(window.open('https://registrar.uoregon.edu/calendars/academic'))"> here</A> for Winter 2018 Academic Dates and Deadlines.
+
+</B></font color>
+<p><font size=3><b>Spring Term 2018</font size></B>
+</font size = 2.5>
+<li>Spring 2018 Schedule of Classes and Registration Priority times will be available Friday, February 9.
+<li>Spring 2018 Initial Registration begins on Monday, February 26.
+<li>Use Schedule Builder in DuckWeb to create or update your spring class schedule.  
+<li>Click <A HREF="javascript:void(window.open('http://registrar.uoregon.edu/current-students/schedule-builder'))"> here</A> for more information on Schedule Builder.
+<li>To learn more about Wait-Listing courses in DuckWeb, click <A HREF="javascript:void(window.open('http://registrar.uoregon.edu/help/waitlisting'))"> here</A>.</SPAN></td></tr></table><p></DIV>
+</TD>
+</tr>
+<tr>
+<TD  width="700" CLASS="pldefault">
+<table  CLASS="plaintable"  width="700" >
+</tr>
+<tr>
+<TD  width="200" nowrap  CLASS="pldefault">
+<br><hr><center><b>Course Search By Term:</b></center><ul>
+<a href="/pls/prod/hwskdhnt.p_search?term=201701">Fall 2017</a><br>
+<a href="/pls/prod/hwskdhnt.p_search?term=201702">Winter 2018</a><br>
+<a href="/pls/prod/hwskdhnt.p_search?term=201703">Spring 2018</a><br>
+<a href="/pls/prod/hwskdhnt.p_search?term=201705">Fall 2017 Law</a><br>
+<a href="/pls/prod/hwskdhnt.p_search?term=201706">Spr 2018 Law</a><br>
+</ul><hr>
+</TD>
+<TD  width="498" CLASS="pldefault">
+<div class="infotextdiv"><table  CLASS="infotexttable" SUMMARY="This layout table contains information that may be helpful in understanding the content and functionality of this page.  It could be a brief set of instructions, a description of error messages, or other special information."><tr><td CLASS="indefault"><SPAN class="infotext"> <br><p>
+
+</li>
+<p>
+<!--<li><A HREF="javascript:void(window.open('https://registrar.uoregon.edu/current-students/zero-week-courses'))" >Zero Week Courses  Summer Session 2017</A>-->
+<p><li>
+<A HREF="javascript:void(window.open('http://languages.uoregon.edu'))" >Explore Languages</A>
+</li>
+<p><li>
+<A HREF="javascript:void(window.open('http://registrar.uoregon.edu/group_courses '))" >Group Satisfying and Multi-Cultural Courses Chart</A>
+
+</li><p>
+
+
+
+<li><A HREF="javascript:void(window.open('http://registrar.uoregon.edu/current_students/ba_lang_satisfy'))" >BA Second-Language Satisfying Courses </A>
+
+</li><p>
+
+<li><A HREF="javascript:void(window.open('http://www.uoduckstore.com/book-search'))" >Course Materials/Textbooks List</A>
+
+</li><p>
+
+</li><p>
+<li>
+<A HREF="javascript:void(window.open('http://registrar.uoregon.edu/A-Z'))">Other Registration Info</A> </li>
+</li><p>
+
+ <p>
+
+<li> Scroll down for more links.</SPAN></td></tr></table><p></DIV>
+</TD>
+</table>
+</tr>
+</TD>
+</tr>
+<tr>
+<TD  width="700" CLASS="default">
+<div class="infotextdiv"><table  CLASS="infotexttable" SUMMARY="This layout table contains information that may be helpful in understanding the content and functionality of this page.  It could be a brief set of instructions, a description of error messages, or other special information."><tr><td CLASS="indefault"><SPAN class="infotext"> <b>More Resources:</b><br>
+<a href= http://registrar.uoregon.edu/calendars/final_exam> Final Exams Schedules</a> -- 
+<a href= http://registrar.uoregon.edu/subject_codes> Subject Codes</a> -- 
+<a href= http://map.uoregon.edu/campusMaps/scheduleMap.pdf> Campus Map with Building Abbreviations</a>  -- 
+<a href= http://registrar.uoregon.edu/calendars/prior_class_schedules> Prior Class Schedules</a>
+<p>
+<a href= https://duckweb.uoregon.edu/pls/prod/twbkwbis.P_WWWLogin> DuckWeb</a> -- 
+<a href= http://registrar.uoregon.edu/node/1
+> Registrar</a>  -- 
+<a href= http://financialaid.uoregon.edu/> Financial Aid</a> --
+<a href= http://admissions.uoregon.edu/> Admissions</a>  --
+<a href= http://uocatalog.uoregon.edu/> Catalog</a>  --
+<a href= http://registrar.uoregon.edu/course_evaluations> Course Evaluations</a>
+</SPAN></td></tr></table><p></DIV>
+</TD>
+</tr>
+</table>
+<table  CLASS="plaintable"  width="600" >
+<tr>
+<td CLASS="pldefault"><font size=-2><i>Comments? </i><a href="mailto:registrar@uoregon.edu">registrar@uoregon.edu</a></font></td>
+</tr>
+</table>
+
+<!--  ** START OF twbkwbis.P_CloseDoc **  -->
+<table  CLASS="plaintable" SUMMARY="This is table displays line separator at end of the page."
+                                             WIDTH="100%" cellSpacing=0 cellPadding=0 border=0><tr><TD class="bgtabon" width="100%" colSpan=2><img src="/wtlgifs/web_transparent.gif" alt="Transparent Image" TITLE="Transparent Image"  NAME="web_transparent" HSPACE=0 VSPACE=0 BORDER=0 HEIGHT=3 WIDTH=10  /></TD></tr></table>
+<a href="#top" onMouseover="window.status='Skip to top of page'; return true" onMouseout="window.status=''; return true" OnFocus="window.status='Skip to top of page'; return true" onBlur="window.status=''; return true" class="skiplinks">Skip to top of page</a>
+</DIV>
+<div class="footerbeforediv">
+
+</DIV>
+<div class="footerafterdiv">
+
+</DIV>
+<div class="globalafterdiv">
+
+</DIV>
+<div class="globalfooterdiv">
+
+</DIV>
+<div class="pagefooterdiv">
+<SPAN class="releasetext">Release: 8.8.2</SPAN>
+</DIV>
+<div class="poweredbydiv">
+</DIV>
+<DIV class="div1"></DIV>
+<DIV class="div2"></DIV>
+<DIV class="div3"></DIV>
+<DIV class="div4"></DIV>
+<DIV class="div5"></DIV>
+<DIV class="div6"></DIV>
+<div class="banner_copyright"> <br><h5>Â© 2018 Ellucian Company L.P. and its affiliates.<br></h5></div>
+</body>
+</html>
+Õ8¨Sœí      Z‰óZ‰õ˜>Áºÿ           :http://classes.uoregon.edu/ necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Sun, 18 Feb 2018 21:41:50 GMT
+Server: Oracle-HTTP-Server-11g
+Content-Length: 10582
+Content-Type: text/html; charset=UTF-8
+Content-Language: en
+ original-response-headers Date: Sun, 18 Feb 2018 21:41:50 GMT
+Server: Oracle-HTTP-Server-11g
+Content-Length: 10582
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Content-Language: en
+ uncompressed-len 0 net-response-time-onstart 947 net-response-time-onstop 948 predictor::resource-count 5 predictor::http://classes.uoregon.edu/css/duckhunt_new.css 1,1,1518990109,12289 predictor::http://classes.uoregon.edu/css/web_defaultprint.css 1,1,1518990109,12289 predictor::http://classes.uoregon.edu/css/styles-minimal.css 1,1,1518990109,12289 predictor::http://classes.uoregon.edu/css/uo-logo@2x.png 1,1,1518990109,12289 predictor::http://classes.uoregon.edu/wtlgifs/web_transparent.gif 1,1,1518990109,12289   )V

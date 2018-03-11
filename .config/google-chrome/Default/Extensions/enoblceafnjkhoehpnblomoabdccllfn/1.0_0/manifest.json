@@ -1,0 +1,22 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "background.js" ]
+      }
+   },
+   "description": "A native Call of Duty Black Ops 3 News and Community standalone webview app for your Chrome Browser.",
+   "icons": {
+      "128": "assets/logo.png",
+      "16": "assets/logo.png",
+      "48": "assets/logo.png",
+      "64": "assets/logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuS0MteRxERIDSa9zIp4n1hFt8dmXAUJbaoLLnkvztKLnTP+uPnwco3KZJ43l6WSMSSOASKLt2vUgZdxAc7okD+F2t3OFwtGHTEJ4haLI8+KUe35aCEDtcecfjx41YuMkZDWB3Ejna76AbayCFwXmZM+QO/Berh+rmMEm718DevFLq6ZJJwBDsB7Y/v12baYN1vBREGRyGyKSr7SrrJTP5sqtKE24ehZMAiqJuDEfkO6Vvj0UDIiJ5tpsl3Whe6uTvci8tJB5SRFwEtyieNXZunJBjbfPUqNZHzs3BkXBogLqM+nh7CHVqaIl+V1c/uxes4w/qtNE+FdHwB/iWJBn0QIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "38",
+   "name": "Black Ops 3 News and Community",
+   "permissions": [ "webview", "storage", "fileSystem", "unlimitedStorage", "http://*/", "https://*/" ],
+   "short_name": "Black Ops 3 News and Community",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

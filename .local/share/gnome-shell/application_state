@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="0" last-seen="1520022626"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="46.25" last-seen="1520291063"/>
+    <application id="discord_discord.desktop" open-window-count="1" score="6918" last-seen="1520628218"/>
+    <application id="yelp.desktop" open-window-count="0" score="1" last-seen="1520367743"/>
+    <application id="file-roller.desktop" open-window-count="0" score="0" last-seen="1520022551"/>
+    <application id="nautilus.desktop" open-window-count="1" score="0" last-seen="1520626833"/>
+    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="1520627078"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="60" last-seen="1520628602"/>
+    <application id="codeblocks.desktop" open-window-count="0" score="1.5" last-seen="1520298221"/>
+    <application id="update-manager.desktop" open-window-count="0" score="2" last-seen="1520369491"/>
+    <application id="eog.desktop" open-window-count="0" score="0" last-seen="1520552934"/>
+    <application id="evince-previewer.desktop" open-window-count="0" score="1" last-seen="1520552928"/>
+    <application id="code.desktop" open-window-count="1" score="14875.75" last-seen="1520628165"/>
+    <application id="terminator.desktop" open-window-count="0" score="4570.25" last-seen="1520628599"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="15080.5" last-seen="1520628484"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="1" score="16.75" last-seen="1520627087"/>
+    <application id="evince.desktop" open-window-count="0" score="0" last-seen="1520568144"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="8.75" last-seen="1520369502"/>
+  </context>
+</application-state>

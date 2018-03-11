@@ -1,0 +1,228 @@
+{
+   "checksum": "94a4e0ab4d706f840017ea58c189ef5b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13023006104839000",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13164764578704374"
+            },
+            "name": "YouTube",
+            "sync_transaction_version": "67",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13080197266569826",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13165042268418776"
+            },
+            "name": "Facebook",
+            "sync_transaction_version": "66",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13101366524787713",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13164334179705602"
+            },
+            "name": "Netflix",
+            "sync_transaction_version": "67",
+            "type": "url",
+            "url": "http://www.netflix.com/browse"
+         }, {
+            "date_added": "13101972531897219",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13161434697501907",
+               "last_visited_desktop": "13163491409573072"
+            },
+            "name": "Craigslist",
+            "sync_transaction_version": "31",
+            "type": "url",
+            "url": "https://eugene.craigslist.org/"
+         }, {
+            "date_added": "13116899099007552",
+            "id": "9",
+            "meta_info": {
+               "last_visited": "13162277255174253",
+               "last_visited_desktop": "13165033415542198"
+            },
+            "name": "Amazon Prime",
+            "sync_transaction_version": "73",
+            "type": "url",
+            "url": "https://www.amazon.com/dp/B00DBYBNEE?_encoding=UTF8&ref_=nav_prime_member_btn"
+         }, {
+            "children": [ {
+               "date_added": "13151444341151041",
+               "id": "21",
+               "meta_info": {
+                  "last_visited_desktop": "13164237312036212"
+               },
+               "name": "CS Email",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://mail.cs.uoregon.edu/mail/?_task=login"
+            }, {
+               "date_added": "13151444011136867",
+               "id": "22",
+               "meta_info": {
+                  "last_visited_desktop": "13164676364743527"
+               },
+               "name": "Piazza",
+               "sync_transaction_version": "42",
+               "type": "url",
+               "url": "https://piazza.com/class/j7f5qudfmmg5u2?cid=23"
+            }, {
+               "date_added": "13151178304405278",
+               "id": "23",
+               "meta_info": {
+                  "last_visited_desktop": "13163648787660247"
+               },
+               "name": "Duck Email",
+               "sync_transaction_version": "46",
+               "type": "url",
+               "url": "https://webmail.uoregon.edu/"
+            }, {
+               "date_added": "13150837462052606",
+               "id": "24",
+               "meta_info": {
+                  "last_visited_desktop": "13165023494973334"
+               },
+               "name": "Canvas UofO",
+               "sync_transaction_version": "69",
+               "type": "url",
+               "url": "https://canvas.uoregon.edu/"
+            } ],
+            "date_added": "13163464956419194",
+            "date_modified": "13163670614469329",
+            "id": "11",
+            "name": "Uoregon",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13123654603996036",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13163663022358895"
+            },
+            "name": "First Tech",
+            "sync_transaction_version": "46",
+            "type": "url",
+            "url": "https://banking.firsttechfed.com/MyAccountsV2"
+         }, {
+            "date_added": "13150940394676590",
+            "id": "12",
+            "meta_info": {
+               "last_visited": "13162688619134450",
+               "last_visited_desktop": "13164676666774446"
+            },
+            "name": "Duckweb",
+            "sync_transaction_version": "46",
+            "type": "url",
+            "url": "https://duckweb.uoregon.edu/pls/prod/twbkwbis.P_WWWLogin"
+         }, {
+            "children": [ {
+               "date_added": "13159925843666043",
+               "id": "20",
+               "meta_info": {
+                  "last_visited_desktop": "13165023921700239"
+               },
+               "name": "mth252",
+               "sync_transaction_version": "72",
+               "type": "url",
+               "url": "https://webwork.uoregon.edu/webwork2/Math252-24251/"
+            } ],
+            "date_added": "13163464956419613",
+            "date_modified": "13163464956419613",
+            "id": "13",
+            "name": "Mth 252",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13160000750025490",
+               "id": "17",
+               "meta_info": {
+                  "last_visited_desktop": "13165016763280916"
+               },
+               "name": "SSH ",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://systems.cs.uoregon.edu/wiki/index.php?n=Help.AppsSSH"
+            }, {
+               "date_added": "13160606512614113",
+               "id": "18",
+               "meta_info": {
+                  "last_visited_desktop": "13165277654674633"
+               },
+               "name": "CS330",
+               "sync_transaction_version": "74",
+               "type": "url",
+               "url": "https://classes.cs.uoregon.edu/18W/cis330/syllabus.html"
+            }, {
+               "date_added": "13161212776915609",
+               "id": "19",
+               "meta_info": {
+                  "last_visited_desktop": "13164235870372884"
+               },
+               "name": "Boyana Norris Github",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/brnorris03"
+            } ],
+            "date_added": "13163464956419790",
+            "date_modified": "13163670614469842",
+            "id": "14",
+            "name": "CS330",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13162423704119549",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13163131454912751"
+            },
+            "name": "Reference C++ ",
+            "sync_transaction_version": "18",
+            "type": "url",
+            "url": "http://www.cplusplus.com/reference/"
+         }, {
+            "date_added": "13163112429467635",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13163112429467851"
+            },
+            "name": "C++ All-In-One For Dummies Cheat Sheet - dummies",
+            "sync_transaction_version": "19",
+            "type": "url",
+            "url": "http://www.dummies.com/programming/cpp/c-all-in-one-for-dummies-cheat-sheet/"
+         } ],
+         "date_added": "13163464769099826",
+         "date_modified": "13163889191250876",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13163464769099831",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "74",
+      "synced": {
+         "children": [  ],
+         "date_added": "13163464769099833",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

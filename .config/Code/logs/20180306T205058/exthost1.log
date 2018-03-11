@@ -1,0 +1,16 @@
+[2018-03-06 20:51:00.916] [exthost1] [info] extension host started
+[2018-03-06 20:51:00.938] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-06 20:51:00.938] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-06 20:51:01.020] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-06 20:51:01.020] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-06 20:51:01.102] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-06 20:51:01.102] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-06 20:51:01.118] [exthost1] [info] eager extensions activated
+[2018-03-06 20:51:32.848] [exthost1] [info] ExtensionService#_doActivateExtension austin.code-gnu-global {"startup":false,"activationEvent":"onLanguage:cpp"}
+[2018-03-06 20:51:32.848] [exthost1] [info] ExtensionService#loadCommonJSModule /home/justin/.vscode/extensions/austin.code-gnu-global-0.2.2/out/src/extension
+[2018-03-06 20:51:32.883] [exthost1] [info] ExtensionService#_doActivateExtension mitaki28.vscode-clang {"startup":false,"activationEvent":"onLanguage:cpp"}
+[2018-03-06 20:51:32.883] [exthost1] [info] ExtensionService#loadCommonJSModule /home/justin/.vscode/extensions/mitaki28.vscode-clang-0.2.2/out/src/extension
+[2018-03-06 20:51:32.895] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:cpp"}
+[2018-03-06 20:51:32.895] [exthost1] [info] ExtensionService#loadCommonJSModule /home/justin/.vscode/extensions/ms-vscode.cpptools-0.15.0/out/src/main
+[2018-03-06 20:51:33.200] [exthost1] [info] ExtensionService#_doActivateExtension xaver.clang-format {"startup":false,"activationEvent":"onLanguage:cpp"}
+[2018-03-06 20:51:33.200] [exthost1] [info] ExtensionService#loadCommonJSModule /home/justin/.vscode/extensions/xaver.clang-format-1.6.1/out/src/extension

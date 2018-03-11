@@ -1,0 +1,10 @@
+[2018-03-04 17:30:46.508] [renderer1] [error] Cannot read property 'element' of undefined: TypeError: Cannot read property 'element' of undefined
+    at e.element (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:383:327)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:410:523
+    at Array.map (native)
+    at e.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:410:493)
+    at e.onMouseDown (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:400:356)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:849
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:622
+    at e.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:161:76)
+    at HTMLDivElement.r (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:169:105)

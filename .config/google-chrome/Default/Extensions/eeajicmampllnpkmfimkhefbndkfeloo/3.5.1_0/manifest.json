@@ -1,0 +1,25 @@
+{
+   "author": "Jagjeet Singh",
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "images/icon128.png",
+      "default_title": "Group Invite All"
+   },
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+   "description": "Group Invite All is extension which used to add all your friends in facebook group by single click.",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "64": "images/icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhOgm1mzSGbftIIxPw1eeAdhqopQTxsLPj44DoYiiwYMk00NbSehcWS6DJvYkapMuQoM0CvxkoI6iT5kOhezZtN4bAAJaZMZMJW0KxVii8e3vBJotIJuAaFH24x+bw3JBguqph/+qP38sNs2VW63NrvnW3WoKk/FIkrXElPSonNPXpCItjffQpCyWZZDjRRHN3vD7R+ILnKBJfZ8sEUD2MSjZfWUCawEJpe9XH4hDmiOeiUZuAGcOavTUbfgq7GoleOzcfuSXMiOXgsD+PtRFIEXles8jyfcLloLW2DaHyymTn2Mglr2Nm7qzu/z5VjKSn4zUI6erbCZlW5BhbysO1wIDAQAB",
+   "manifest_version": 2,
+   "name": "Group Invite All",
+   "permissions": [ "storage", "*://ssl.google-analytics.com/*", "*://*.facebook.com/*", "*://*.softarea.in/*", "notifications", "tabs", "clipboardWrite" ],
+   "short_name": "FGIA",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.5.1"
+}

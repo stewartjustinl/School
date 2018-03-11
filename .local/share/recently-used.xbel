@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_justin0/google-chrome-stable_current_amd64.deb" added="2018-02-18T21:38:30Z" modified="2018-02-18T21:55:25Z" visited="2018-02-18T21:38:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-02-18T21:55:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_justin0/google-chrome-stable_current_amd64-1.deb" added="2018-02-18T21:40:19Z" modified="2018-02-18T21:40:19Z" visited="2018-02-18T21:40:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-02-18T21:40:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/wallpaper.jpg" added="2018-02-18T22:09:56Z" modified="2018-02-18T22:10:51Z" visited="2018-02-18T22:09:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2018-02-18T22:10:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/game.h" added="2018-02-18T22:19:19Z" modified="2018-02-19T21:29:55Z" visited="2018-02-18T22:19:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-19T21:29:55Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/game.c" added="2018-02-18T22:21:23Z" modified="2018-02-19T01:44:40Z" visited="2018-02-18T22:21:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-19T01:44:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/sheep.c" added="2018-02-18T23:43:14Z" modified="2018-02-19T01:44:53Z" visited="2018-02-18T23:43:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-19T01:44:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/sheep.h" added="2018-02-18T23:43:23Z" modified="2018-02-19T01:45:21Z" visited="2018-02-18T23:43:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-19T01:45:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/main.c" added="2018-02-19T00:24:14Z" modified="2018-02-20T18:30:05Z" visited="2018-02-19T00:24:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-20T18:30:05Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/wolf.h" added="2018-02-19T01:19:53Z" modified="2018-02-19T01:45:27Z" visited="2018-02-19T01:19:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-19T01:45:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/wolf.c" added="2018-02-19T01:20:01Z" modified="2018-02-19T01:45:08Z" visited="2018-02-19T01:20:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-19T01:45:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/farmer.c" added="2018-02-19T01:27:30Z" modified="2018-02-20T03:25:40Z" visited="2018-02-19T01:27:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-20T03:25:40Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-19T01:56:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/farmer.h" added="2018-02-19T01:27:34Z" modified="2018-02-19T21:09:05Z" visited="2018-02-19T01:27:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-19T21:09:05Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/empty.c" added="2018-02-19T01:44:10Z" modified="2018-02-19T01:44:10Z" visited="2018-02-19T01:44:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2018-02-19T01:44:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/project%20breakdown" added="2018-02-19T02:07:54Z" modified="2018-02-19T21:21:36Z" visited="2018-02-19T02:07:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-19T21:21:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Pictures/Screenshot%20from%202018-02-19%2012-36-33.png" added="2018-02-19T20:36:36Z" modified="2018-02-19T20:36:36Z" visited="2018-02-19T20:36:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2018-02-19T20:36:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/project%20" added="2018-02-19T21:09:57Z" modified="2018-02-19T21:09:57Z" visited="2018-02-19T21:09:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-19T21:09:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment4/test-main.exe" added="2018-02-19T22:35:27Z" modified="2018-02-19T22:35:27Z" visited="2018-02-19T22:35:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-19T22:35:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/C++/Lab%204/src/array.cpp" added="2018-02-19T22:54:01Z" modified="2018-02-19T22:54:01Z" visited="2018-02-19T22:54:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-19T22:54:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/game.hpp" added="2018-02-21T18:09:53Z" modified="2018-02-27T01:52:31Z" visited="2018-02-21T18:09:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-27T01:52:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/main.cpp" added="2018-02-21T18:58:20Z" modified="2018-02-22T16:48:48Z" visited="2018-02-21T18:58:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-22T16:48:48Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/Makefile%20(1)" added="2018-02-21T22:33:58Z" modified="2018-02-21T22:33:58Z" visited="2018-02-21T22:33:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-21T22:33:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/Makefile" added="2018-02-21T22:35:05Z" modified="2018-03-09T20:24:38Z" visited="2018-02-21T22:35:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-03-09T20:24:38Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/Makefile%20(1)" added="2018-02-21T22:36:50Z" modified="2018-02-21T22:37:31Z" visited="2018-02-21T22:36:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-21T22:37:31Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/Makefile" added="2018-02-21T22:37:20Z" modified="2018-02-21T22:37:20Z" visited="2018-02-21T22:37:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-21T22:37:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Pictures/Screenshot%20from%202018-02-22%2010-54-21.png" added="2018-02-22T18:54:22Z" modified="2018-02-22T18:54:22Z" visited="2018-02-22T18:54:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2018-02-22T18:54:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/inclass.cpp" added="2018-02-22T20:43:50Z" modified="2018-02-22T20:43:50Z" visited="2018-02-22T20:43:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-22T20:43:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Desktop/work.cpp" added="2018-02-23T05:10:39Z" modified="2018-02-23T20:24:17Z" visited="2018-02-23T05:10:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-23T20:24:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Desktop/work.hpp" added="2018-02-23T20:24:04Z" modified="2018-02-23T20:24:04Z" visited="2018-02-23T20:24:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++hdr"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-23T20:24:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/game.cpp" added="2018-02-27T01:49:49Z" modified="2018-02-27T01:49:49Z" visited="2018-02-27T01:49:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-02-27T01:49:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment4/grading/grading.sh" added="2018-02-27T21:13:30Z" modified="2018-02-27T21:13:30Z" visited="2018-02-27T21:13:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-27T21:13:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment4/grading/grading.log" added="2018-02-27T21:13:41Z" modified="2018-02-27T21:13:41Z" visited="2018-02-27T21:13:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-log"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-27T21:13:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Tests%5C/test1.cpp" added="2018-03-02T05:39:22Z" modified="2018-03-02T05:39:22Z" visited="2018-03-02T05:39:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-03-02T05:39:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/assignment5/test-main.c" added="2018-03-02T05:43:06Z" modified="2018-03-02T05:43:16Z" visited="2018-03-02T05:43:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-03-02T05:43:16Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Tests%5C/Makefile" added="2018-03-02T05:44:35Z" modified="2018-03-02T05:45:37Z" visited="2018-03-02T05:44:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-03-02T05:45:37Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/lab8.zip" added="2018-03-02T20:29:11Z" modified="2018-03-02T20:29:11Z" visited="2018-03-02T20:29:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-03-02T20:29:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Tests%5C/login%20code" added="2018-03-02T20:51:31Z" modified="2018-03-02T20:51:31Z" visited="2018-03-02T20:51:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-03-02T20:51:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Project.cpp" added="2018-03-04T22:43:36Z" modified="2018-03-04T22:43:36Z" visited="2018-03-04T22:43:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-03-04T22:43:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/debouncing%20via%20hardware" added="2018-03-05T00:31:04Z" modified="2018-03-05T00:31:04Z" visited="2018-03-05T00:31:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-03-05T00:31:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/debouncing%20via%20hardware.cpp" added="2018-03-05T00:31:13Z" modified="2018-03-05T00:31:13Z" visited="2018-03-05T00:31:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-03-05T00:31:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Desktop/Project/buttons.h" added="2018-03-05T01:08:21Z" modified="2018-03-06T01:58:18Z" visited="2018-03-05T01:08:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-03-06T01:58:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Desktop/Project/main.cpp" added="2018-03-05T01:08:33Z" modified="2018-03-05T01:08:33Z" visited="2018-03-05T01:08:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-03-05T01:08:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Pictures/Screenshot%20from%202018-03-04%2017-28-35.png" added="2018-03-05T01:28:36Z" modified="2018-03-05T01:28:36Z" visited="2018-03-05T01:28:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2018-03-05T01:28:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/C++/Lab%205%20CS%20260/Lab%205%20CS%20260.cbp" added="2018-03-06T01:03:16Z" modified="2018-03-06T01:03:16Z" visited="2018-03-06T01:03:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-codeblocks"/>
+        <bookmark:applications>
+          <bookmark:application name="codeblocks" exec="&apos;codeblocks %u&apos;" modified="2018-03-06T01:03:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/panoBot/src/Firmware/Buttons.h" added="2018-03-07T04:51:32Z" modified="2018-03-07T04:51:32Z" visited="2018-03-07T04:51:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-03-07T04:51:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/uoregon-cis330/panoBot/src/Firmware/ButtonTest.c" added="2018-03-07T04:51:39Z" modified="2018-03-07T04:51:39Z" visited="2018-03-07T04:51:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-03-07T04:51:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/bar%20no%20alchohol.jpg" added="2018-03-08T23:48:20Z" modified="2018-03-08T23:48:20Z" visited="2018-03-08T23:48:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2018-03-08T23:48:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/panoBot/src/Firmware/ButtonTest.c" added="2018-03-09T02:58:34Z" modified="2018-03-09T02:58:34Z" visited="2018-03-09T02:58:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-03-09T02:58:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/panoBot/src/Firmware" added="2018-03-09T02:58:44Z" modified="2018-03-09T20:00:23Z" visited="2018-03-09T02:58:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-03-09T20:00:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Pictures/Screenshot%20from%202018-03-08%2019-07-27.png" added="2018-03-09T03:07:27Z" modified="2018-03-09T03:07:27Z" visited="2018-03-09T03:07:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2018-03-09T03:07:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Pictures/Screenshot%20from%202018-03-08%2019-42-39.png" added="2018-03-09T03:42:40Z" modified="2018-03-09T03:42:40Z" visited="2018-03-09T03:42:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2018-03-09T03:42:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet%20(1).pdf" added="2018-03-09T04:02:24Z" modified="2018-03-09T04:02:24Z" visited="2018-03-09T04:02:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-03-09T04:02:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/ProMini8MHzv1.pdf" added="2018-03-09T04:10:55Z" modified="2018-03-09T04:10:55Z" visited="2018-03-09T04:10:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2018-03-09T04:10:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

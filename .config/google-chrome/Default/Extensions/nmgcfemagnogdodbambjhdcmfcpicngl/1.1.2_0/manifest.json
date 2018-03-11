@@ -1,0 +1,28 @@
+{
+   "chrome_settings_overrides": {
+      "search_provider": {
+         "encoding": "UTF-8",
+         "favicon_url": "https://nortonsafe.search.ask.com/assets/favicon_norton_v1.ico",
+         "is_default": true,
+         "keyword": "NortonSafe",
+         "name": "Norton Safe",
+         "search_url": "https://nortonsafe.search.ask.com/web?q={searchTerms}&o=APN11908&prt=cr&chn=prev",
+         "suggest_url": "https://ss-sym.search.ask.com/ss?q={searchTerms}&li=ff"
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "https://identitysafe.norton.com/*", "http://identitysafe.norton.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Search safely online by enabling Norton Safe Search as your default search provider for maximum protection on Chrome.",
+   "icons": {
+      "128": "images/128_Norton_Ext_Icon.png",
+      "48": "images/48_Norton_Ext_Icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgZdDMV0IZ9Ph05p1XUp/GYnM04aL3KGDe164YzCZ48Kn++NCJ3/wby379gz2IrJYsoyZrWweJvwjdNjJpP8kIhRqXTO3q52GtSqMkeUC699TXQlXw3/l0t1AdbcMcqzBd1ogiFcWhbFLJYz4mIfmst1JdOEVT/5LDNA5XGGt8a1jKw6LFJ6h5pO+uWSaqg41WtjLbEPy9wsTQCI6pCo4JAUlf9qMFT2nN13ooUegATmsHg9AuRA2zwQYeFaafFl1f6X1WgPntqjXIYiFJ1x4zTcXJjUtd5P3aACi7V4pOZhTFkr+6v19M3OkrtFy1nITdllG1HPVN2+nT8t+qicaUQIDAQAB",
+   "manifest_version": 2,
+   "name": "Norton Safe Search as default for Chrome",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.2"
+}

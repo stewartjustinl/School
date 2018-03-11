@@ -1,0 +1,77 @@
+
+
+******************************************************************************************************************************
+breakdown (part 1)
+	
+	-make 5 classes. (game, empty, sheep, wolf, farmer) 
+	
+	-make a main
+
+	- in game class set enum for (empty, sheep, wolf, farmer) so you can compair them to 0-3 respectfully 
+		
+	-You need one vector or array that populates the whole board with values 0-3. ==> vector name suggestion is board
+
+	-You need one vector or array that tracks the current cell of 9 elements. ==> vector name is cell
+
+	-you need to cycle through the 9 elements excluding the element 5 which is the element your using to compair 
+	and count how many sheep, farmers, empty spaces and wolfs. at each element increment the respective counters ==> countEmpty, countSheep, countWolf, countFarmer
+
+	-use the stored count variable to determine which change/s you will make to the current cell.  
+
+	in the sheep, farmer, wolf and empty classes impliment the functions needed for the rules of the game.
+	
+	-increament the variable used to loop through board to grab current vector or array cells
+		
+	-clear the vector or array used for current cell and check to see that the next 9 elements are all present(edge cases) 
+	 if so populate the current cell vector or array 
+	
+	-if the check from previous line fails increment the variable used to loop through board to grab current vector or array cell. repeat line above 
+	
+	-you next need to step the cell to the next cell.
+
+	-check to see if the cell has 8 neighbors or if the cell is a border in which you have already compaired all the elements
+	of this cell and need to move down to the next portion of the grid if not at EOF
+
+	- when we print out the grid we will use 'F' for farmers, 'S" for sheep 'W' for wolfs and finally '.' for empty
+    
+'********************************************************************************************************************************
+Notes
+
+need to figure out a way to look at the current location and then check the array areas around it. 
+
+if we consider each move to be the grid below then the below statements are how we would evaulate the grid
+
+123
+4X5
+678
+
+array[i-1][j-1] is the top left location ==> location (1)
+array[i-1][j] is the top middle location ==> location (2)
+array[i-1][j+1] is the top right location ==> location(3)
+
+array[i]][j-1] is the middle left location ==> location (4)
+array[i][j] is the current location ==> location (X)
+array[i][j+1] is the middle right location ==> location (5)
+
+array[i+1][j-1] is the bottom left location ==> location (6)
+array[i+1][j] is the bottom middle location ==> location (7)
+array[i+1][j+1] is the bottom right location ==> location (8)
+
+
+next we need to figure out how to populate the cells at the start with wolves, farms, sheep and empty
+
+once we have populated the cells initially we need to then apply rules for each of the possible fillers
+
+after the rules are applied we need to setup a method to update the grid 
+
+need some clarification on how much the grid should expand as well as if we are going to be moving a certain amount of spacing or if the program will run tell told otherwise
+
+main will run everything
+
+game class will track the board
+
+farmer class impliments the rules for farmer
+
+wolf class impliments the rules for farmer
+
+sheep class impliments the rules for sheep

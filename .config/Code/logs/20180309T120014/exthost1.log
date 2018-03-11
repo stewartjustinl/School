@@ -1,0 +1,24 @@
+[2018-03-09 12:00:17.070] [exthost1] [info] extension host started
+[2018-03-09 12:00:17.089] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-09 12:00:17.089] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-09 12:00:17.162] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-09 12:00:17.162] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-09 12:00:17.223] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-09 12:00:17.223] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-09 12:00:17.234] [exthost1] [info] eager extensions activated
+[2018-03-09 12:00:24.817] [exthost1] [info] extension host started
+[2018-03-09 12:00:24.840] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-09 12:00:24.840] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-09 12:00:24.891] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-09 12:00:24.891] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-09 12:00:24.945] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-09 12:00:24.945] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-09 12:00:24.955] [exthost1] [info] eager extensions activated
+[2018-03-09 12:00:28.454] [exthost1] [info] ExtensionService#_doActivateExtension austin.code-gnu-global {"startup":false,"activationEvent":"onLanguage:c"}
+[2018-03-09 12:00:28.454] [exthost1] [info] ExtensionService#loadCommonJSModule /home/justin/.vscode/extensions/austin.code-gnu-global-0.2.2/out/src/extension
+[2018-03-09 12:00:28.480] [exthost1] [info] ExtensionService#_doActivateExtension mitaki28.vscode-clang {"startup":false,"activationEvent":"onLanguage:c"}
+[2018-03-09 12:00:28.480] [exthost1] [info] ExtensionService#loadCommonJSModule /home/justin/.vscode/extensions/mitaki28.vscode-clang-0.2.2/out/src/extension
+[2018-03-09 12:00:28.485] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:c"}
+[2018-03-09 12:00:28.485] [exthost1] [info] ExtensionService#loadCommonJSModule /home/justin/.vscode/extensions/ms-vscode.cpptools-0.15.0/out/src/main
+[2018-03-09 12:00:28.682] [exthost1] [info] ExtensionService#_doActivateExtension xaver.clang-format {"startup":false,"activationEvent":"onLanguage:c"}
+[2018-03-09 12:00:28.682] [exthost1] [info] ExtensionService#loadCommonJSModule /home/justin/.vscode/extensions/xaver.clang-format-1.6.1/out/src/extension
